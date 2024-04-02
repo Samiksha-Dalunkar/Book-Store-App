@@ -12,3 +12,5 @@ After successfully signing up, an alert message is displayed.
 ![Sign up](https://github.com/Samiksha-Dalunkar/Book-Store-App/assets/148967935/989f5de0-00be-4ac6-91fa-4cd6bbcc0b5e)
 
 
+In the Dashboard's upload section, after filling in all the required information, clicking on the "Upload Book" button initiates the uploading process, and upon successful completion, a message confirming the successful upload of the book is displayed.
+![Upload](https://github.com/Samiksha-Dalunkar/Book-Store-App/assets/148967935/65b9e887-7dc2-4560-ac28-b50bf25407a7)
