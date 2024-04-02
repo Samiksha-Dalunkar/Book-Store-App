@@ -22,4 +22,5 @@ On the shop page, all uploaded books are displayed.
 
 
 In the Dashboard's "Manage Books" section, both edit and delete buttons are provided. When click on the edit button, you can make changes to the item.
+![manage](https://github.com/Samiksha-Dalunkar/Book-Store-App/assets/148967935/0966ea51-4afd-4246-8e72-e531a63fc64b)
 
