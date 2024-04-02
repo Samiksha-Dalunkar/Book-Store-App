@@ -19,3 +19,7 @@ In the Dashboard's upload section, after filling in all the required information
 This is a Shop page. 
 On the shop page, all uploaded books are displayed.
 ![shop](https://github.com/Samiksha-Dalunkar/Book-Store-App/assets/148967935/908319bc-5950-4b60-9ef4-83d31f0d4eda)
+
+
+In the Dashboard's "Manage Books" section, both edit and delete buttons are provided. When click on the edit button, you can make changes to the item.
+![manage](https://github.com/Samiksha-Dalunkar/Book-Store-App/assets/148967935/fb584c0a-5ab8-470e-8b08-59d98e7405f4)
